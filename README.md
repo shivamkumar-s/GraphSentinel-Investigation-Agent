@@ -12,3 +12,4 @@ GraphSentinel is an AI-driven Fraud Investigation Agent that connects to a Tiger
 1. `pip install -r requirements.txt`
 2. Add your Groq API key and TigerGraph token in `app.py`.
 3. Run the dashboard: `streamlit run app.py`
+![GraphSentinel UI](ui_screenshot.png)
